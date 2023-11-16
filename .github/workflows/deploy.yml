@@ -3,7 +3,7 @@ name: Live
 on:
   push:
     branches:
-      - main
+      - master
 
 
 jobs:
